@@ -3,7 +3,7 @@ Hi, I'm a full-stack developer who mainly works in React and Express with an int
 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rohaan-ali-0b0006318/)  |  **[rohaanali763@gmail.com](mailto:rohaanali763@gmail.com)**
+[LinkedIn](https://www.linkedin.com/in/rohaan-ali-0b0006318/) | **[rohaanali763@gmail.com](mailto:rohaanali763@gmail.com)**
 
 # Tech Stack
 
