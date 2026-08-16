@@ -3,7 +3,7 @@ Hi, I'm a full-stack developer who mainly works in React and Express with an int
 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohaan-ali-0b0006318/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohaanali763@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rohaan-ali-0b0006318/)  |  **[rohaanali763@gmail.com](mailto:rohaanali763@gmail.com)**
 
 # Tech Stack
 
@@ -45,9 +45,7 @@ Hi, I'm a full-stack developer who mainly works in React and Express with an int
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
 
 # GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RohaanAli763&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=RohaanAli763&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RohaanAli763&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=RohaanAli763&icon=0&color=0)](https://visitcount.itsvg.in)
